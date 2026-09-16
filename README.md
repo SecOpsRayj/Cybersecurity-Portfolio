@@ -72,6 +72,7 @@ Coming Soon
 Coming Soon
 ### Cloud Security Lab
 Coming Soon
+
 ---
 ## Professional Goals
 - Complete Bachelor of Science in Cybersecurity
