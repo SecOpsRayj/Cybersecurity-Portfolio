@@ -20,6 +20,9 @@ Threat Detection
 ---
 ## Certifications
 - CompTIA Security+
+- CompTIA Security+ certificate.pdf
+- Associate of Science in Cybersecurity (May 2025)
+- CeD.25I0-UTVN-RLDR%20(1).pdf
 - Bachelor of Science in Cybersecurity (October 2026)
 - Master of Science in Cybersecurity & Information Assurance (Starting December 2026)
 - CySA+ (In Progress through WGU)
